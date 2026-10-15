@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/pytest-doctestplus/commit/019daf388a66ba5c672cb70dcdaa032181fe3749",
       "git:hexsha": "019daf388a66ba5c672cb70dcdaa032181fe3749",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/pytest-doctestplus/commit/656e31932875ab9882987afa6f5cb2613262dab9",
